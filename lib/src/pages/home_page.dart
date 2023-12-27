@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
           FlutterMap(
             options: const MapOptions(
               initialCenter: LatLng(-16.5207124, -68.1240775),
-              initialZoom: 13.0,
+              initialZoom: 14.0,
             ),
             children: [
               TileLayer(
